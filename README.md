@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning AWS, Python and React Native <br>
+🌱 I’m currently learning Software Development in Haaga Helia AMK <br>
 ⚡ Fun fact: Software Developer Student with Financial and Banking background <br>
 
 
