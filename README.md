@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning AWS, Python and React Native
-⚡ Fun fact: Software Developer Student with Financial and Banking background
+🌱 I’m currently learning AWS, Python and React Native <br>
+⚡ Fun fact: Software Developer Student with Financial and Banking background <br>
 
 
 ## 🌐 Socials:
