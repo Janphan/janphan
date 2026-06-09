@@ -1,11 +1,10 @@
-💫 About Me
-🌱 Software Engineering graduate from Haaga-Helia UAS.
+🎓 MSc in Computer Science at University of Helsinki | Software Engineering Alumna (Haaga-Helia UAS)
 
-🔭 Focus: Building scalable data systems and AI-integrated mobile applications.
+🔭 Focus: Scalable data systems & AI-integrated mobile/website development.
 
-⚡ Background: Leveraging a foundation in Financial Banking to build logic-heavy, performance-driven software.
+⚡ Background: Finance/Operations turned into logic-heavy, performance-driven software.
 
-🚀 Current Challenge: Optimizing algorithmic efficiency and exploring real-time data processing.
+🚀 Current Challenge: Optimizing algorithmic efficiency & real-time data processing.
 
 [My Portfolio](https://hongphan-portfolio.vercel.app/)
 
